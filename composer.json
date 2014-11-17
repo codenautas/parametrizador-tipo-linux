@@ -1,0 +1,20 @@
+{
+    "name": "taller-simple/parametrizador_tipo_linux",
+    "description": "just for process --like parameters",
+    "version": "0.1",
+    "license": "GPL-3.0+",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "authors": [
+        {
+            "name": "Estefania Capece",
+            "email": "eycapece@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Emilio Platzer",
+            "email": "emilioplatzer@outlook.com",
+            "role": "Developer"
+        }
+}
